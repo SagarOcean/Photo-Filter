@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#77A7EF</color>
+    <color name="PrimaryDark">#498AEA</color>
+    <color name="Secondary">#FEEAA5</color>
+    <color name="PrimaryText">#212121</color>
+    <color name="SecondaryText">#757575</color>
+    <color name="LandingBackgroundCenter">#DC000000</color>
+    <color name="LandingBackgroundEnd">#F6000000</color>
+    <color name="ButtonSavedImages">#81C784</color>
+    <color name="ButtonEditNewImage">#FFB74D</color>
+    <color name="White">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
